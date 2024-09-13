@@ -4,7 +4,7 @@ function App() {
   return (
     <p>
       Read through the instructions in the README.md file to build your NASA
-      app! Have fun <span role="img" aria-label='go!'>🚀</span>!
+      app! Hi Have fun <span role="img" aria-label='go!'>🚀</span>!
     </p>
   )
 }
